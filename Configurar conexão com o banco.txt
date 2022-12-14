@@ -1,0 +1,3 @@
+	Segui esse tutorial para configurar o driver: https://www.youtube.com/watch?v=7spsRgc6AtE&ab_channel=Al%C3%ADrioFrankly
+1 - A configuração do banco é feita na função "conexaoBanco" do arquivo "controller.php":
+	Nessa função é necessário alterar o nome do servidor, banco de dados, nome do usuário do banco e senha.
